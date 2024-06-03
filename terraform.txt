@@ -6,3 +6,4 @@ EOF
 Second line
 
 Second line
+The third line 
